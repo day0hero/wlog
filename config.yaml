@@ -2,4 +2,4 @@ baseURL: https://day0hero.github.io/wlog/
 languageCode: en-us
 title: "Log" 
 paginate: 5
-theme: hugo-book
+theme: PaperMod
