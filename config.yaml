@@ -1,5 +1,5 @@
 baseURL: https://day0hero.github.io/wlog/
 languageCode: en-us
-title: "Working Log"
+title: "Log" 
 paginate: 5
-
+theme: hugo-book
