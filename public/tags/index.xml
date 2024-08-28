@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on PaperMod</title>
-    <link>http://localhost:1313/wlog/tags/</link>
+    <link>https://day0hero.github.io/wlog/tags/</link>
     <description>Recent content in Tags on PaperMod</description>
     <generator>Hugo -- 0.131.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/wlog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://day0hero.github.io/wlog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docs</title>
-      <link>http://localhost:1313/wlog/tags/docs/</link>
+      <link>https://day0hero.github.io/wlog/tags/docs/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wlog/tags/docs/</guid>
+      <guid>https://day0hero.github.io/wlog/tags/docs/</guid>
       <description></description>
     </item>
     <item>
       <title>PaperMod</title>
-      <link>http://localhost:1313/wlog/tags/papermod/</link>
+      <link>https://day0hero.github.io/wlog/tags/papermod/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wlog/tags/papermod/</guid>
+      <guid>https://day0hero.github.io/wlog/tags/papermod/</guid>
       <description></description>
     </item>
     <item>
       <title>Css</title>
-      <link>http://localhost:1313/wlog/tags/css/</link>
+      <link>https://day0hero.github.io/wlog/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wlog/tags/css/</guid>
+      <guid>https://day0hero.github.io/wlog/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>http://localhost:1313/wlog/tags/html/</link>
+      <link>https://day0hero.github.io/wlog/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wlog/tags/html/</guid>
+      <guid>https://day0hero.github.io/wlog/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/wlog/tags/markdown/</link>
+      <link>https://day0hero.github.io/wlog/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wlog/tags/markdown/</guid>
+      <guid>https://day0hero.github.io/wlog/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Themes</title>
-      <link>http://localhost:1313/wlog/tags/themes/</link>
+      <link>https://day0hero.github.io/wlog/tags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wlog/tags/themes/</guid>
+      <guid>https://day0hero.github.io/wlog/tags/themes/</guid>
       <description></description>
     </item>
     <item>
       <title>Code</title>
-      <link>http://localhost:1313/wlog/tags/code/</link>
+      <link>https://day0hero.github.io/wlog/tags/code/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wlog/tags/code/</guid>
+      <guid>https://day0hero.github.io/wlog/tags/code/</guid>
       <description></description>
     </item>
     <item>
       <title>Gist</title>
-      <link>http://localhost:1313/wlog/tags/gist/</link>
+      <link>https://day0hero.github.io/wlog/tags/gist/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wlog/tags/gist/</guid>
+      <guid>https://day0hero.github.io/wlog/tags/gist/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>http://localhost:1313/wlog/tags/privacy/</link>
+      <link>https://day0hero.github.io/wlog/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wlog/tags/privacy/</guid>
+      <guid>https://day0hero.github.io/wlog/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Shortcodes</title>
-      <link>http://localhost:1313/wlog/tags/shortcodes/</link>
+      <link>https://day0hero.github.io/wlog/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wlog/tags/shortcodes/</guid>
+      <guid>https://day0hero.github.io/wlog/tags/shortcodes/</guid>
       <description></description>
     </item>
     <item>
       <title>Syntax</title>
-      <link>http://localhost:1313/wlog/tags/syntax/</link>
+      <link>https://day0hero.github.io/wlog/tags/syntax/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wlog/tags/syntax/</guid>
+      <guid>https://day0hero.github.io/wlog/tags/syntax/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoji</title>
-      <link>http://localhost:1313/wlog/tags/emoji/</link>
+      <link>https://day0hero.github.io/wlog/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wlog/tags/emoji/</guid>
+      <guid>https://day0hero.github.io/wlog/tags/emoji/</guid>
       <description></description>
     </item>
   </channel>

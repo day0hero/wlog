@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://localhost:1313/wlog/sitemap.xml
+Sitemap: https://day0hero.github.io/wlog/sitemap.xml
