@@ -1,4 +1,4 @@
-baseURL: https://day0hero.github.io/wlog/
+baseURL: https://day0hero.github.io
 languageCode: en-us
 title: "Log" 
 paginate: 5
